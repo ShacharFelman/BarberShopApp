@@ -7,7 +7,7 @@ import model.classes.*;
 import model.singletons.*;
 import view.Pages.ManagerSide.ManagerView;
 import view.Pages.RootController.ViewRoot;
-//asas
+
 public class Controller implements iModelListenable, iViewCustomerListenable, iViewManagerListenable {
 	private ViewRoot viewCustomer;
 	private ManagerView viewManager;
