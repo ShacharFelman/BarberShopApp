@@ -7,7 +7,7 @@ public class DBConnectionSingleton {
     private Connection conn = null;
     private String dbUrl = "jdbc:mysql://localhost:3306/barbershop1";  
     private String userName = "root";
-    private String password = "felmanshahar6380872";
+    private String password = "***";
 
     private DBConnectionSingleton() throws SQLException {
         try {
